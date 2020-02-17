@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FalkyAlert</string>
+    <string name="labelSifra">Šifra</string>
+    <string name="labelNaziv">Naziv Problema</string>
+    <string name="labelTip">Tip Problema</string>
+    <string name="labelNazad">Nazad</string>
+    <string name="labelSlika">Slika Problema</string>
+    <string name="labelNovi">Kreiraj Novi Problem</string>
+    <string name="labelMijenjanje">Promjeni Problem</string>
+    <string name="labelObrisi">Obriši Problem</string>
+    <string name="labelSlikati">Slikaj</string>
+    <string name="labelRok">Rok</string>
+    <string name="labelOpis">Opis Problema</string>
+</resources>

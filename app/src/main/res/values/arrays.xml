@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tip_fAlert">
+        <item>TV</item>
+        <item>PC</item>
+        <item>WiFi</item>
+        <item>Casse</item>
+    </string-array>
+</resources>
